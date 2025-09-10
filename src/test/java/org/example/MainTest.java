@@ -21,4 +21,8 @@ public class MainTest {
         Assert.assertTrue(true);
     }
 
+    @Test
+    public void test5() {
+        Assert.assertEquals(true, true);
+    }
 }
