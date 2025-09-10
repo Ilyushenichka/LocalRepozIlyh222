@@ -8,5 +8,6 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println(StringUtils.upperCase("Hello and welcome!"));
             System.out.println(StringUtils.upperCase("Hello, not welcome("));
+            System.out.println(StringUtils.upperCase("Hello, maybe welcome, maybe no)"));
     }
 }
