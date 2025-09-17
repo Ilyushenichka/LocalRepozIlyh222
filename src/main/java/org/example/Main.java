@@ -9,7 +9,7 @@ public class Main {
             System.out.println(StringUtils.upperCase("Hello and welcome!"));
             System.out.println(StringUtils.upperCase("Hello, not welcome("));
             System.out.println(StringUtils.upperCase("Hello, maybe welcome, maybe no)"));
-            System.out.println(StringUtils.upperCase("Hello, it is FORK"));
+            System.out.println(StringUtils.upperCase("Hello, it is FORK!"));
 
     }
 }
